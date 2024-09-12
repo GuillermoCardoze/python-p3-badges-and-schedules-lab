@@ -2,7 +2,7 @@ from conference_badges import (
     badge_maker, batch_badge_creator,
     assign_rooms, printer
 )
-
+"Hello, Guido! You'll be assigned to room 1!",
 import io
 import sys
 
